@@ -1,6 +1,6 @@
 {
   "name": "quote-generator",
-  "homepage": "https://github.com/chemphenoms/react-quote-generator.git",
+  "homepage": "https://github.com/chemphenoms/react-quote-generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
